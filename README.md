@@ -39,4 +39,10 @@ The classes in this repo want to take the pain out of the process described abov
 Berlin, October 2014
 
 
+#### Further reading:
+* [Another fee calculator in German, commercial: www.hoai.de](http://www.hoai.de/online/hoai_rechner/index.php)
+* [More about the HOAI on the German Wikipedia](http://de.wikipedia.org/wiki/Honorarordnung_für_Architekten_und_Ingenieure)
+* [A very nice PDF comparing Architectural services in Germany and the UK/US form the Bund Deutscher Architekten](http://www.bda-bund.de/fileadmin/mediaFiles/Bundesverband/pdfs/CoFA_Flyer.pdf)
+
+
 
