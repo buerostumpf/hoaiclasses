@@ -8,8 +8,8 @@ On the rare chance anyone running across this would like to comment or even cont
 All your efforts are welcome!
 
 
-A little background
-===================
+## A little background
+
 Germany is one of the last countries with a legal regulation of the fees of architects and engineers.
 Although many find such a system debatable per se it offers a good idea about the money vs. service-ratio
 of things such as architectonical designs, detailing, contracting and site supervision as well as the 
@@ -29,8 +29,7 @@ Of course, there is a bit more complexity behind this, but you'll get the idea.
 For example, you have to take different extra percentages, service phases and fee table versions 
 into account, to only name a few of the problems you'll run across when doing the calculation.
 
-The goal of this project
-========================
+## The goal of this project
 The classes in this repo want to take the pain out of the process described above by:
 * providing standardized fee tables of the fee systems from 1998 until today
 * providing a ruby class to access these fee tables and to do the basic calculations
