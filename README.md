@@ -32,10 +32,10 @@ into account, to only name a few of the problems you'll run across when doing th
 The goal of this project
 ========================
 The classes in this repo want to take the pain out of the process described above by:
-- providing standardized fee tables of the fee systems from 1998 until today
-- providing a ruby class to access these fee tables and to do the basic calculations
-- providing a cli to run, test and integrate the above
-- (Maybe) providing GUI tools to do the same
+* providing standardized fee tables of the fee systems from 1998 until today
+* providing a ruby class to access these fee tables and to do the basic calculations
+* providing a cli to run, test and integrate the above
+* (Maybe) providing GUI tools to do the same
 
 Berlin, October 2014
 
